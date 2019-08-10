@@ -1,0 +1,11 @@
+Hey nerd, you're actually reading this. That's awesome!
+While I have your attention:
+I give you permission to use this data pack for your own packs, or to just try it 
+out for your survival worlds and such. Feel free to modify it. However, you are not
+allowed to redistribute modified copies of this data pack for public use.
+
+ALSO:
+To in order to set up this data pack, you must run the command "/function hh:setup"
+or just run "/reload". You should be able to tell the data pack is working if your
+hunger bar doesn't stay above 19 food. (Your hunger bar should almost always be 1/2
+a shank down. The exception is if you eat something.)
